@@ -1,0 +1,10 @@
+release/game.o
+release/helpfield.o
+release/main.o
+release/mainwindow.o
+release/pausewindow.o
+release/settingswindow.o
+release/moc_game.o
+release/moc_mainwindow.o
+release/moc_pausewindow.o
+release/moc_settingswindow.o
